@@ -1,0 +1,28 @@
+Version 1.7.1
+	Visual Composer is updated to its latest version
+
+Version 1.7
+	+ New parameter "location description" is added into the google map shortcode
+
+Version 1.6
+	+ Compatibility with VC latest versions is improved.
+    + Instagram plugin updated
+    Fixed: Layout of shortcode [trx_gap] is fixed.
+
+Version 1.5
+	+ Responsive version fixed and improved
+
+Version 1.4
+    Fixed: Compatability with woocomerce plugin
+    Fixed: perfomance of ajax search
+
+Version 1.2
+    Fixed: Theme's responsive version
+    Fixed: Putout of social accounts in Team
+    Fixed: Documentation
+
+Version 1.1
+    + Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+
+Version 1.0
+	Release
